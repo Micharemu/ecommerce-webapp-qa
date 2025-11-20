@@ -51,6 +51,7 @@ ecommerce-webapp-qa/
 ├─ cypress.config.js
 ├─ package.json
 └─ README.md
+
 ✅ Test Coverage
 Authentication (valid & invalid credentials)
 
@@ -63,19 +64,18 @@ Checkout with field validations
 Basic negative tests (empty cart, invalid form data)
 
 🚀 Running the Tests
+
 1. Clone & Install
-bash
-Copy code
 git clone https://github.com/Micharemu/ecommerce-webapp-qa.git
 cd ecommerce-webapp-qa
 npm install
+
 2. Run Cypress
-bash
-Copy code
 # Open Cypress UI
 npm run cypress:open
 
 # OR headless run
 npm run cypress:run
+
 (Adjust to match your package.json scripts.)
 
