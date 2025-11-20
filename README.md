@@ -79,9 +79,3 @@ npm run cypress:open
 npm run cypress:run
 (Adjust to match your package.json scripts.)
 
-📎 Related Links
-🌐 Portfolio: https://micharemu.github.io/qa-portfolio
-
-🔗 GitHub Profile: https://github.com/Micharemu
-
-💼 LinkedIn: https://www.linkedin.com/in/oladiran-tobi-michael
